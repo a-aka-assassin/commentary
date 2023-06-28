@@ -1,0 +1,15 @@
+C:\xampp\htdocs\dotnet\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\xampp\htdocs\dotnet\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\xampp\htdocs\dotnet\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\xampp\htdocs\dotnet\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\xampp\htdocs\dotnet\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.csproj.AssemblyReference.cache
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\xampp\htdocs\dotnet\dotnet\obj\Debug\net7.0\ref\dotnet.dll
